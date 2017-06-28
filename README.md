@@ -14,7 +14,7 @@ Getting that dream job
 ### Alex
 1. I have a tattoo
 2. I was born in New York
-3. I have a pet Dog name Potato
+3. I have a pet dog named Potato
 
 
 ## My LinkedIn
