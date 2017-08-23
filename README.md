@@ -9,16 +9,8 @@ Getting that dream job
 ## Day 1 Goals:
 1. Learning
 
-## Two Truths and a Lie
-
-### Alex
-1. I snowboard
-2. I was born in New York
-3. I travelled to Europe
-
-
 ## My LinkedIn
-https://www.linkedin.com/in/alex-li-89446659/
+https://www.linkedin.com/in/alex-li-inc/
 
 ## Meetups I've attended:
 1. Denver Script (6/7)
